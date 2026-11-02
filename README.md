@@ -43,8 +43,10 @@ Chaos Control собирает в одном месте личные дела и
 - Python
 - Django
 - PostgreSQL
-**Клиенты**
+ 
+**Frontend**
 - Kotlin (Android)
+- Figma
 
 ## Риски проекта
  
